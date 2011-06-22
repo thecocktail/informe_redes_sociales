@@ -134,6 +134,9 @@ footer span{font-size:1.2em;font-weight:normal;}
 footer span a{color:#66645E;}
 footer small{font-size:0.8em;}
 footer small .sep{margin:0 6px;font-size:0.8em;}
+footer .likes { overflow:hidden; }
+
+footer .likes iframe{ display:inline-block; display:-moz-inline-stack; *display:inline;  vertical-align:top; }
 /* Tablet Layout:768px.
 Gutters:24px.
 Outer margins:28px.
