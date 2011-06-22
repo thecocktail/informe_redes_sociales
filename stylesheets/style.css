@@ -1407,6 +1407,10 @@ px 68 160 252 344 436 */
     float:none;
   }
   
+  .graph_bar ul {
+    background: url("../images/logos-redes-sociales-mobile.png") no-repeat bottom left; 
+  }
+  
   .access p {
     float:none;
   }

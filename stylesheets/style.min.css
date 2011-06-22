@@ -298,6 +298,7 @@ px 68 160 252 344 436 */
 .big_graph li.p3{right:0px;left:auto;top:-50px;}
 p.note{padding-bottom:20px;}
 .graph_bar ul{width:432px;margin:0 auto;float:none;}
+.graph_bar ul{background:url("../images/logos-redes-sociales-mobile.png") no-repeat bottom left;}
 .access p{float:none;}
 .access .devices p{float:left;}
 .access h3{font-size:4.7em;text-align:center;}
